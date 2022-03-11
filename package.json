@@ -1,0 +1,19 @@
+{
+  "name": "social-net-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanstyl/social-net-api.git"
+  },
+  "author": "Nathan Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanstyl/social-net-api/issues"
+  },
+  "homepage": "https://github.com/Hanstyl/social-net-api#readme"
+}
