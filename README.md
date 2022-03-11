@@ -21,7 +21,11 @@
 
   Please see screen shots belowm, as well as a demo video
 
-  ![alt text](assets/images/screenshot.png)
+  ![Screen Shot 2022-03-10 at 9 19 22 PM](https://user-images.githubusercontent.com/79775889/157802133-5817ef77-e1cf-4a7d-9ad7-7f3555877ef5.png)
+  
+  ![Screen Shot 2022-03-10 at 9 19 55 PM](https://user-images.githubusercontent.com/79775889/157802141-bdef05c4-2757-4e76-b6d4-5bd4fa881763.png)
+
+
 
   ## Contributors
 
