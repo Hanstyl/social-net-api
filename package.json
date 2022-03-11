@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Hanstyl/social-net-api/issues"
   },
-  "homepage": "https://github.com/Hanstyl/social-net-api#readme"
+  "homepage": "https://github.com/Hanstyl/social-net-api#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.5"
+  }
 }
